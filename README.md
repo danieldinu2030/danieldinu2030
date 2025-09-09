@@ -5,7 +5,8 @@
 - I'm trying to find open source projects I can contribute to when I have the time
 
 ## Languages
-- Minimal experience: x64 Assembly, Matlab, HTML, CSS, Python
+- One-time experience: Rust, Python
+- Small experience: x64 Assembly, Matlab, HTML, CSS
 - Moderate experience: C, C++
 
 ## Stats
